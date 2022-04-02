@@ -1,0 +1,1 @@
+print("Current word: ","".join(word_list))
